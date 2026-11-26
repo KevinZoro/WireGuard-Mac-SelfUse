@@ -1,0 +1,22 @@
+.DS_Store
+/build/
+/.build/
+/.swiftpm/
+/DerivedData/
+/work/
+/releases/
+xcuserdata/
+*.xcuserstate
+*.app/
+*.zip
+
+# Local WireGuard profiles and credentials
+*.conf
+*.key
+*.pem
+*.p12
+*.mobileconfig
+*.pcap
+*.pcapng
+.env
+.env.*
